@@ -1,4 +1,5 @@
-{
+[
+  {
   "id": 1,
   "name": "Devweekerson",
   "account": {
@@ -53,3 +54,63 @@
     }
   ]
 }
+
+
+{
+  "id": 2,
+  "name": "Pip",
+  "account": {
+    "id": 2,
+    "number": "01.097987-2",
+    "agency": "2030",
+    "balance": 800.12,
+    "limit": 1000.00
+  },
+  "card": {
+    "id": 1,
+    "number": "xxxx xxxx xxxx 2222",
+    "limit": 2000.00
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 3,
+  "name": "Pep",
+  "account": {
+    "id": 3,
+    "number": "01.097972-1",
+    "agency": "2030",
+    "balance": 1245.12,
+    "limit": 1000.00
+  },
+  "card": {
+    "id": 1,
+    "number": "xxxx xxxx xxxx 3333",
+    "limit": 2000.00
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 4,
+  "name": "Pytherson",
+  "account": {
+    "id": 2,
+    "number": "01.097898-1",
+    "agency": "2030",
+    "balance": 1800.12,
+    "limit": 1000.00
+  },
+  "card": {
+    "id": 1,
+    "number": "xxxx xxxx xxxx 4444",
+    "limit": 2000.00
+  },
+  "features": [],
+  "news": []
+}
+
+]
